@@ -26,7 +26,7 @@ img{display:block;max-width:100%}
   color:#fff4d9;position:relative;isolation:isolate;
   background:
     linear-gradient(180deg,rgba(20,13,8,.10) 5%,rgba(20,13,8,.18) 38%,rgba(20,13,8,.88) 100%),
-    url("804386.jpg") center 35%/cover no-repeat;
+    url("bully.jpg") center 35%/cover no-repeat;
   border-bottom:6px solid var(--gold);
 }
 .hero-content{width:min(100%,900px);text-shadow:2px 3px 5px #000}
